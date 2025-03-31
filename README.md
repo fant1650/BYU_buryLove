@@ -26,10 +26,8 @@ Let the ground truth be y
 , the prediction is outside of threshold.
 where  τ=1000
  Angstroms.
-### Fβ
--score
-#### The Fβ
--score balances precision and recall, placing greater weight on recall when β>1
+### Fβ-score
+#### The Fβ-score balances precision and recall, placing greater weight on recall when β>1
  and on precision when β<1
  (in our case we use β=2
 , thus we are weighting recall more than precision). It is defined as:
