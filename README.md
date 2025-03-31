@@ -13,8 +13,7 @@ A tomogram is a three-dimensional image that has been reconstructed from a serie
 
 ## Evaluation
 ### Evaluation Metric
-#### Submissions will be evaluated using a combination of the Fβ
--score and Euclidean distance. The goal is to determine whether a tomogram contains a motor and, if it does, to accurately predict its location.
+#### Submissions will be evaluated using a combination of the Fβ-score and Euclidean distance. The goal is to determine whether a tomogram contains a motor and, if it does, to accurately predict its location.
 
 Let the ground truth be y
  and the predicted location be y¯
