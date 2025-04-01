@@ -1,6 +1,6 @@
 # BYU_buryLove
 ## About this project
-### Hello!We are a team named "塟❤の⺗惩什".This is a feasible solution to "BYU - Locating Bacterial Flagellar Motors 2025", which is a competition hold by Brigham Young University on Kaggle.Below are the content of this competition and the description of our solution
+### Hello!We are a team named "塟❤の廾惩什".This is a feasible solution to "BYU - Locating Bacterial Flagellar Motors 2025", which is a competition hold by Brigham Young University on Kaggle.Below are the content of this competition and the description of our solution
 
 ## Overview
 #### The goal of this competition is to develop an algorithm to identify the presence and location of flagellar motors in 3D reconstructions of bacteria. Automating this traditionally manual task will accelerate the study of macromolecular complexes, which helps answer fundamental questions in molecular biology, improve drug development, and advance synthetic biology.
